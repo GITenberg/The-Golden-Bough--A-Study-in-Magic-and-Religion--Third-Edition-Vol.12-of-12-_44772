@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1241
     wikipedia: http://en.wikipedia.org/wiki/James_Frazer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44772#The-Golden-Bough--A-Study-in-Magic-and-Religion--Third-Edition-Vol.12-of-12-
 gutenberg_issued: '2013-01-27'
 gutenberg_type: Text
 identifiers:
